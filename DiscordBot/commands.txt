@@ -1,0 +1,15 @@
+COMMANDS LIST 
+
+COMMANDS PREFIF "."  #YOU CAN CHANGE IT TO WHATEVER YOU WANT 
+
+1 : .clear 
+2 : .kick 
+3 : .ban
+4 : .lock
+5 : .unlock
+6 : .unban
+7 : .eptlay # EP TI LEEI ? 
+8 : .userinfo
+9 : .say
+
+

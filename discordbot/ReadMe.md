@@ -1,1 +1,0 @@
-Before you run the main.py make sure you have edited the file so you can see which commands they are feutured in it. First of all you need to add your own discordbot key at the end of the codeline !!!! 
